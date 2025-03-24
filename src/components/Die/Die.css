@@ -1,0 +1,12 @@
+.die {
+    background-color: white;
+    border: none;
+    border-radius: 3.81px;
+    width: 36px;
+    height: 36px;
+    box-shadow: 0px 2px 2px 0px #00000026;
+    align-content: center;
+    font-weight: 700;
+    font-size: 1.287rem;
+    cursor: pointer;
+}
